@@ -1,5 +1,7 @@
 # android_development
 
+## About
+
 This repository is dedicated to my studies and experiments in Android development. Here, I will explore key concepts, tools, and best practices for building modern Android applications. The content is organized by topic and includes code samples, notes, and practical exercises. My goal is to deepen my understanding of the Android ecosystem and document my learning journey for future reference and sharing with others.
 
 ## Key Topics
