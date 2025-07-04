@@ -8,16 +8,18 @@ This repository contains notes, exercises, and small projects developed during m
 
 ## Structure
 
-- **kotlin/** – Exercises and projects using Kotlin, the main programming language for Android.
-- **android_studio_gradle/** – Notes and examples related to Android Studio and Gradle build system.
-- **layouts_ui/** – User interface design with XML layouts and Android UI components.
-- **rest_apis_json/** – Consuming REST APIs and handling JSON data in Android apps.
-- **git_github/** – Version control and project collaboration using Git and GitHub.
-- **architecture_mvvm/** – Applying the Model-View-ViewModel (MVVM) architecture pattern.
-- **firebase/** – Integrating Firebase services such as Authentication, Realtime Database, Firestore, and Cloud Messaging.
-- **proguard/** – Code obfuscation and optimization for release builds.
-- **play_store/** – Steps and best practices for publishing Android apps on Google Play.
-- **notes/** – Personal notes, summaries, and references.
+```
+kotlin/ – Exercises and projects using Kotlin, the main programming language for Android.
+android_studio_gradle/ – Notes and examples related to Android Studio and Gradle build system.
+layouts_ui/ – User interface design with XML layouts and Android UI components.
+rest_apis_json/ – Consuming REST APIs and handling JSON data in Android apps.
+git_github/ – Version control and project collaboration using Git and GitHub.
+architecture_mvvm/ – Applying the Model-View-ViewModel (MVVM) architecture pattern.
+firebase/ – Integrating Firebase services such as Authentication, Realtime Database, Firestore, and Cloud Messaging.
+proguard/ – Code obfuscation and optimization for release builds.
+play_store/ – Steps and best practices for publishing Android apps on Google Play.
+notes/ – Personal notes, summaries, and references.
+```
 
 Each folder contains code samples, notes, and mini-projects related to the respective subject.
 
