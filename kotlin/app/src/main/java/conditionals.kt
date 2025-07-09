@@ -1,5 +1,5 @@
 fun main() {
-    // Example 1: Simple if statement
+    // Simple if statement
     val temperature = 30
 
     // If the condition is true, the code inside the block will run
@@ -7,7 +7,7 @@ fun main() {
         println("It's a hot day!")
     }
 
-    // Example 2: if...else statement
+    // if...else statement
     val age = 16
 
     // If the condition is true, the first block runs; otherwise, the else block runs
@@ -17,7 +17,7 @@ fun main() {
         println("You are a minor.")
     }
 
-    // Example 3: if...else if...else statement
+    // if...else if...else statement
     var score = 85
 
     // The program checks each condition in order.
@@ -32,7 +32,7 @@ fun main() {
         println("Grade: D or below")
     }
 
-    // Example 4: Using if as an expression to assign a value
+    // Using if as an expression to assign a value
     val number = 5
     val result = if (number % 2 == 0) {
         "Even"
@@ -41,7 +41,7 @@ fun main() {
     }
     println("The number $number is $result.")
 
-    // Example 5: Nested if statements
+    // Nested if statements
     val x = 10
     val y = 20
 
@@ -55,7 +55,7 @@ fun main() {
         println("x is not positive.")
     }
 
-    // Example 6: Using 'when' for multiple conditions
+    // Using 'when' for multiple conditions
     val dayOfWeek = 3
 
     // 'when' is similar to switch in other languages.
@@ -76,7 +76,7 @@ fun main() {
 
     println("Day $dayOfWeek is $dayName.")
 
-    // Example 7: Using 'when' with ranges and multiple values
+    // Using 'when' with ranges and multiple values
     score = 78
 
     // 'when' can check if a value is within a range or matches multiple values
